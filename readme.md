@@ -1,6 +1,7 @@
 # Algorand Doc for Chinese
 
 ### 1. Algorand Courses
+![pic](pic/2.jpeg)
 1) Setting Up Development EnvironmentIntroduction to Pyteal 
 * [Setting Up Development Environment (开发环境配置)](https://www.bilibili.com/video/BV1bT411E7Dj/?spm_id_from=333.788&vd_source=462a4ba2716ca98e3b989ad9540e7eea)
 * [Exploring Build Tools (探索构建工具)](https://www.bilibili.com/video/BV1CB4y187Wu/?spm_id_from=333.788&vd_source=462a4ba2716ca98e3b989ad9540e7eea)
