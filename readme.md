@@ -12,7 +12,7 @@
 * [Debugging(代码调试)](https://www.bilibili.com/video/BV1JT411E7C9/?spm_id_from=333.788&vd_source=462a4ba2716ca98e3b989ad9540e7eea)
 * [Bugfix and Final Deployment(Debug及重新部署)](https://www.bilibili.com/video/BV11V4y1J79y/?spm_id_from=333.788&vd_source=462a4ba2716ca98e3b989ad9540e7eea)
 
-1) Pyteal Advanced
+2) Pyteal Advanced
 * [Local Storage and Subroutines(本地存储和子程序)](https://www.bilibili.com/video/BV1ha411G7SY/?spm_id_from=333.788&vd_source=462a4ba2716ca98e3b989ad9540e7eea)
 * [Transaction Grouping and Security Checks(交易分组及安全检查)](https://www.bilibili.com/video/BV1qT411w7TR/?spm_id_from=333.788&vd_source=462a4ba2716ca98e3b989ad9540e7eea)
 * [Byteslice Operations and Compilation Errors(字节片操作和编译错误)](https://www.bilibili.com/video/BV1BT411w74L/?spm_id_from=333.788&vd_source=462a4ba2716ca98e3b989ad9540e7eea)
